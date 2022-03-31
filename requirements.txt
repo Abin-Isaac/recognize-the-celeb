@@ -1,0 +1,15 @@
+Flask                              1.1.2
+joblib                             1.0.1
+json5                              0.9.5
+numpy                              1.20.1
+opencv-python                      4.5.4.58
+pandas                             1.2.4
+pip                                21.0.1
+PyWavelets                         1.1.1
+scikit-image                       0.18.1
+scikit-learn                       0.24.1
+scipy                              1.6.2
+pytest-shutil                      1.7.0
+jsonlib-python3                    1.6.1
+PyWavelets                         1.1.1
+pybase64                           1.2.1
