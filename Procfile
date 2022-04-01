@@ -1,1 +1,1 @@
-web: gunicorn "C:\Users\hp\ImageClassification\server\server.py":app
+web: gunicorn "web: gunicorn "server\server.py":app
