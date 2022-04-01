@@ -1,5 +1,5 @@
 Python                            == 3.8-64
-Flask                              1.1.1
+flask                              1.1.1
 joblib                             1.0.1
 json5                              0.9.5
 numpy                              1.20.1
